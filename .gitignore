@@ -1,0 +1,8 @@
+.DS_Store
+Library/*
+Temp/*
+Assets/Standard Assets/*
+Assets/Terrain Assets/*
+Assets/TerrainToolkit/*
+Assets/Tree_Textures/*
+
